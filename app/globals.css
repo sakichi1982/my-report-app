@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* その下の body { ... } などの設定は残してOKです */
+body {
+  background-color: #f9fafb;
+}
